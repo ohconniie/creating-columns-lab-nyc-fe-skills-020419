@@ -52,6 +52,20 @@ img:hover {
   display: inline-block;
 }
 
+.small {
+  width: 100%;
+  height: 100%;
+}
+
+.medium {
+  width: 200%;
+  height: 200%;
+}
+
+.large {
+  width: 100%;
+  height: 100%;
+}
 
 
 /* create your tile classes! we recommend .small .med .large */
